@@ -1,8 +1,8 @@
 # RecyclerBanner
-> 简介：RecyclerView实现轮播图效果。源码仅3个文件，只依赖：`implementation 'com.android.support:recyclerview-v7:28.0.0'`
+> 简介：RecyclerView实现轮播图。源码3个文件，只依赖recyclerview。
 > 
 
-##效果图
+## 效果图
 
 <img src="./demo_screenshot.jpeg" height="400" >
 
