@@ -5,7 +5,7 @@
 > - 源码文件3个，只依赖 `implementation 'com.android.support:recyclerview-v7:28.0.0'`
 > 
 
-## 效果图
+## 截图
 
 <img src="./demo_screenshot.jpeg" height="400" >
 
@@ -41,3 +41,6 @@ public class BannerAdapter extends RecyclerBannerAdapter<LinearLayout, String> {
     }
 }
 ```
+
+## 推荐
+- UltraViewPager: [https://github.com/alibaba/UltraViewPager](https://github.com/alibaba/UltraViewPager)（阿里天猫的轮播图，功能不多刚好够用）
